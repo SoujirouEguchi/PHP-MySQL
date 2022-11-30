@@ -159,8 +159,7 @@
             $stmt->bindParam(':dltpass', $dltpass, PDO::PARAM_INT);
             $stmt->execute();
         }
-        
-        //編集機能
+       
 
         
         //表示機能
